@@ -1,0 +1,4 @@
+.addons_repo/
+config.json
+__pycache__/
+*.pyc
